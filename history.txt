@@ -1,0 +1,278 @@
+    1  cd git exercises
+    2  cd basic git exercises
+    3  ls
+    4  git basic exercises
+    5  cd `basic git exercises
+    6  ls
+    7  cd git basic git exercises
+    8  cd `basic git exercises
+    9  ls
+   10  cd git basic git exercises
+   11  ls
+   12  git status
+   13  ls-a
+   14  ls
+   15  ls
+   16  git init
+   17  ls
+   18  ls
+   19  git init
+   20  ls-a
+   21  ls
+   22  ls
+   23  config--global user.name "KHAYA
+   24  Config--global user.name "KHAYA_NKUTHA"
+   25  ls -a
+   26  cd .git
+   27  ls -a
+   28  cd git-basic-exercises
+   29  mkdir git-basic-exercises
+   30  cd git-basic-exercises
+   31  ls -a
+   32  git init
+   33  ls -a
+   34  git status
+   35  touch README.md
+   36  la -a
+   37  ls -a
+   38  git status
+   39  git log
+   40  git add
+   41  git add README.md
+   42  git status
+   43  git commit -m intial commit
+   44  git commit -m "initial commit"
+   45  nano README.md
+   46  git stats
+   47  git status
+   48  git commit -m "second commit"
+   49  git add README.md 
+   50  nano README.md
+   51  git add README.md 
+   52  git commit -m "third commit"
+   53  git log
+   54  git checkout master
+   55  ls-a
+   56  la -a
+   57  ls -a
+   58  git branch
+   59  git branch milshake-flavours
+   60  git branch
+   61  git branch
+   62  git checkout milkshake-flavours
+   63  cd milkshake-flavours
+   64  git branch
+   65  git branch milshake-flavours
+   66  ls -a
+   67  git checkout milshake-flavours
+   68  git branch
+   69  nano milshake.md
+   70  git status
+   71  git add milshake.md 
+   72  git commit -m "added intial flavours"
+   73  git log
+   74  checkout master
+   75  git checkout master
+   76  ls -a
+   77  git branch history
+   78  git checkout history
+   79  git log
+   80  git branch 
+   81  history > history.txt
+   82  git commit -m "added history"
+   83  git add history
+   84  git add history.txt
+   85  git commit -m "added history"
+   86  git log
+   87  git checkout milshake-flavours
+   88  git log
+   89  nano README.md
+   90  git add README.md 
+   91  git commit -m "random readme changes"
+   92  git checkout history
+   93  cat README.md
+   94  echo "booya" > README.md
+   95  git add README.md 
+   96  git commit -m "rewrote readme"
+   97  git checkout master
+   98  ls
+   99  git log
+  100  git checkout milshake-flavours
+  101  ls
+  102  git log
+  103  git log
+  104  git checkout history
+  105  ls
+  106  git log
+  107  git checkout milshake-flavours
+  108  git merge milshake-flavours
+  109  ls
+  110  git log
+  111  git merge history
+  112  ls
+  113  git log
+  114  git checkout history
+  115  git mrege README.md
+  116  git merge README.md
+  117  rm README.md
+  118  git add/rm README.md
+  119  git add README.md
+  120  git checkout history
+  121  git commit -m "rewrote readme"
+  122  git checkout history
+  123  git log
+  124  git checkout milshake-flavours
+  125  git log
+  126  git checkout history
+  127  git merge master
+  128  git checkout master
+  129  git log
+  130  git remote add origin https://github.com/khaya-cpu/git-basic-exercises.git
+  131  git branch -M main
+  132  git push -u origin main
+  133  git remote add origin https://github.com/khaya-cpu/git-basic-exercises.git
+  134  git branch -M main
+  135  git checkout history
+  136  git remote add origin https://github.com/khaya-cpu/git-basic-exercises.git
+  137  git branch -M main
+  138  git push -u origin main
+  139  git checkout milshake-flavours
+  140  git remote add origin https://github.com/khaya-cpu/git-basic-exercises.git
+  141  git branch -M main
+  142  git push -u origin main
+  143  git checkout master
+  144  git clone https://github.com/Umuzi-org/tech-department.git
+  145  https://github.com/Umuzi-org/tech-department.git
+  146  cd ../
+  147  https://github.com/Umuzi-org/tech-department.git
+  148  mkdir tech-department directory
+  149  cd ~master
+  150  cd master
+  151  git remote add origin https://github.com/khaya-cpu/git-basic-exercises.git
+  152  git push -u origin main
+  153  cd git-basic-exercises
+  154  cd ../
+  155  git clone https://github.com/Umuzi-org/tech-department.git
+  156  cd tech-department directory
+  157  cd tech-department
+  158  git branch
+  159  git log
+  160  git branch
+  161  git branch -a
+  162  git checkout project/git-basic-exercise
+  163  git checkout git-basic-exercise
+  164  git remote -v
+  165  git branch project/git-basic-exercises
+  166  git remote -v
+  167  git log
+  168  git remote add origin https://github.com/khaya-cpu/git-basic-exercises.git
+  169  git log
+  170  cd home
+  171  cd ../
+  172  mkdir this-will-be-another-repo 
+  173  cd this-will-be-another-repo 
+  174  git init
+  175  touch README.md
+  176  git add README.md
+  177  git commit
+  178  cd this-will-be-another-repo 
+  179  git init
+  180  git add README.md
+  181  git commit -m "first commit"
+  182  cd git-basic-exercises
+  183  git remote add origin https://github.com/khaya-cpu/git-basic-exercises.git
+  184  https://github.com/khaya-cpu/git-basic-exercises.git
+  185  https://github.com/khaya-cpu/git-basic-exercises.git
+  186  git log
+  187  https://github.com/khaya-cpu/git-basic-exercises.git
+  188  claer
+  189  git clear
+  190  git clean
+  191  clean
+  192  git config --global user.name "khaya-cpu"
+  193  git --config --global.user.email "khayankutha.kn@gmail.com"
+  194  git --config global.user.email "khayankutha.kn@gmail.com"
+  195  git config --global.user.email "khayankutha.kn@gmail.com"
+  196  git config --global user.email "khayankutha.kn@gmail.com"
+  197  git config
+  198  git config --list
+  199  mkdir git-basic-exercises
+  200  cd git-basic-exercises
+  201  ls -a
+  202  cd ../
+  203  rmdir git-basic-exercises
+  204  ls -a
+  205  ls -a
+  206  cd git-basic-exercises
+  207  mkdir git-basic-exercises
+  208  git init
+  209  ls -a
+  210  cd git-basic-exercises
+  211  ls -a
+  212  git satus
+  213  git status
+  214  ls -a
+  215  git status
+  216  touch README.md
+  217  ls -a
+  218  git status
+  219  git log
+  220  git add 
+  221  git add README.md
+  222  git status
+  223  git commit -m "initial commit"
+  224  git log
+  225  nano README.md
+  226  git stats
+  227  git status
+  228  git commit -a
+  229  git status
+  230  git commit -m "second commit"
+  231  cd git-basic-exercises
+  232  nano README.md
+  233  git commit -m "second commit"
+  234  cd git-basic-exercises
+  235  ls -a
+  236  cd README.md
+  237  git status
+  238  git log
+  239  nano README.md
+  240  git commit -m "second commit"
+  241  cd ../
+  242  cd git-basic-exercises
+  243  ls -a
+  244  git add README.md
+  245  git commit
+  246  cd ../
+  247  mkdir git-basic-exercises,
+  248  cd git-basic-exercises,
+  249  git init
+  250  ls -a
+  251  touch README.md
+  252  git add README.md
+  253  git commit -m "initial commit"
+  254  nano README.md
+  255  git commit -m "second commit"
+  256  git add README.md
+  257  git commit -m "second commit"
+  258  nano README.md
+  259  git add README.md
+  260  git commit -m "third commit"
+  261  git log
+  262  git checkout c6f59c5731c902e7b03f0c3c0ce7f59466c03160
+  263  cat README.md
+  264  git checkout master
+  265  git branch milkshake-flavours
+  266  git branch 
+  267  git checkout milkshake-flavours
+  268  nano milkshake.md
+  269  git status
+  270  git add milkshake.md
+  271  git commit -m "added initial flavours"
+  272  git log
+  273  git checkout master
+  274  ls -a
+  275  git branch history
+  276  git checkout history
+  277  git log
+  278  history > history.txt
